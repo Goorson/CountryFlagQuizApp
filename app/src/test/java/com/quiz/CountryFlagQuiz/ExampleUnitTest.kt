@@ -1,4 +1,4 @@
-package com.quiz.repoapp
+package com.quiz.CountryFlagQuiz
 
 import org.junit.Test
 
